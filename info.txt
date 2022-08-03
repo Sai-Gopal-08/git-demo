@@ -1,1 +1,2 @@
 This is just a random file to test the functionality of 'ammend' function.
+Messing so i can understand ammend command
