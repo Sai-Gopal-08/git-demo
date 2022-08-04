@@ -5,3 +5,4 @@ Commit #2 for Squash
 Commit #3 for Squash
 Commit #4 for Squash on SquashBranch
 Commit #5 for Squash on SquashBranch
+Commit #6 for Squash on SquashBranch
