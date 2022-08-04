@@ -3,3 +3,4 @@ Messing so i can understand ammend command
 Commit #1 for Squash
 Commit #2 for Squash
 Commit #3 for Squash
+Commit #4 for Squash on SquashBranch
