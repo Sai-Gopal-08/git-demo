@@ -6,3 +6,6 @@ Commit #3 for Squash
 Commit #4 for Squash on SquashBranch
 Commit #5 for Squash on SquashBranch
 Commit #6 for Squash on SquashBranch
+Commit #7 for Squash on SquashBranch
+Commit #8 for Squash on SquashBranch
+Commit #9 for Squash on SquashBranch
