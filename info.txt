@@ -12,3 +12,4 @@ Commit #9 for Squash on SquashBranch
 Commit #10 for Squash on SquashBranch
 Commit #11 for Squash on SquashBranch
 Commit #12 for Squash on SquashBranch
+This change is for Reset command
